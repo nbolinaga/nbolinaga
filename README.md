@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Nicolas Bolinaga</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nbolinaga/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
